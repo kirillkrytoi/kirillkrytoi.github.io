@@ -1,0 +1,29 @@
+body{
+ margin: 0;   
+}
+footer{
+    width: 100%;
+    height: 400px;
+    background-color: #000000;
+    background: #fefcea;
+    background: linear-gradient(to top, #fefcea, #7d27ce);
+    padding: 10px;
+    border: 1px solid #333;
+    font-size: 24px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+
+}
+.Text1{
+font-size: 30px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;    
+}
+li{
+list-style: none
+}
+#Logo{
+    margin-left: 160px;
+}
